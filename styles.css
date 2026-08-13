@@ -34,6 +34,16 @@ img {
   display: block;
   width: 100%;
 }
+.icon-arrow {
+  width: 1em;
+  height: 1em;
+  display: block;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
 button {
   font: inherit;
 }
@@ -516,8 +526,11 @@ button {
   text-transform: uppercase;
 }
 .ribbon-track i {
-  color: #8edee5;
-  font-style: normal;
+  width: 5px;
+  height: 5px;
+  flex: 0 0 5px;
+  border-radius: 50%;
+  background: #8edee5;
 }
 
 .services {
