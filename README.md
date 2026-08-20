@@ -1,8 +1,8 @@
-# 🍧 Website Açaí
+# 🦷 Website Clínica
 
-Website desenvolvido para uma loja de açaí, com foco em uma experiência visual moderna, responsiva e interativa.
+Website institucional desenvolvido para uma clínica odontológica, com foco em apresentar seus serviços através de uma interface moderna, profissional e responsiva.
 
-O projeto utiliza animações e efeitos de rolagem para criar uma navegação mais dinâmica e destacar os elementos da interface.
+O projeto combina uma estrutura visual clean com animações que tornam a experiência de navegação mais fluida e agradável.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -16,17 +16,18 @@ O projeto utiliza animações e efeitos de rolagem para criar uma navegação ma
 
 ## ✨ Destaques do projeto
 
-- Interface moderna e responsiva
-- Animações durante a navegação
+- Design institucional e profissional
+- Layout responsivo
+- Navegação fluida
+- Animações com GSAP
+- Efeitos acionados durante o scroll
 - Rolagem suave com ScrollSmoother
-- Animações acionadas pelo scroll
-- Animações de textos com SplitText
-- Estrutura organizada em HTML, CSS e JavaScript
-- Experiência adaptada para diferentes tamanhos de tela
+- Animações de textos utilizando SplitText
+- Interface desenvolvida com foco na experiência do usuário
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto foi desenvolver uma experiência visual atrativa para uma marca de açaí, combinando design, interatividade e animações para tornar a navegação mais envolvente.
+O objetivo deste projeto foi criar uma presença digital moderna para uma clínica odontológica, apresentando sua identidade e seus serviços de maneira clara, profissional e visualmente atrativa.
 
 ## 👨‍💻 Desenvolvido por
 
